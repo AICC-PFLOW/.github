@@ -10,4 +10,5 @@
 #### 윤민지
 #### 김남규
 #### 김재영
+<a href="https://velog.io/@wddoods015/posts"><img src="https://img.shields.io/badge/JaeYoung-030303?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a> <a href="https://github.com/wddoods015"><img src="https://img.shields.io/badge/JaeYoung-20C997?style=for-the-badge&logo=velog&logoColor=FFFFFF"/></a>
 #### 장봉준
