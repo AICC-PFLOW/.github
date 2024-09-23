@@ -8,7 +8,6 @@
 #### 김호준
 #### 이상현
 <a href="https://github.com/pythonize"><img src="https://img.shields.io/badge/pythonizeGit-412991?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a> <a href="blog.naver.com/different_7" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=for-the-badge&logo=naver&logoColor=FFFFFF"/></a> <img src="https://img.shields.io/badge/different0423@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-#### 김남규
 #### 김재영
 <a href="https://github.com/wddoods015"><img src="https://img.shields.io/badge/JaeYoung-030303?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a> <a href="https://velog.io/@wddoods015/posts"><img src="https://img.shields.io/badge/JaeYoung-20C997?style=for-the-badge&logo=velog&logoColor=FFFFFF"/></a>
 #### 장봉준
